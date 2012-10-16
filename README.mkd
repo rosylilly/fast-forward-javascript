@@ -1,0 +1,3 @@
+# Fast Forward Javascript
+
+[Fast Forward Javascript]( https://speakerdeck.com/u/rosylilly/p/fast-forward-javascript ) に出てきたコードサンプルの実ファイルです。
